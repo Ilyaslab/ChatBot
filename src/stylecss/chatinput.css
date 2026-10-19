@@ -1,0 +1,25 @@
+input {
+    padding: 12px 15px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin: 0 10px 0 35px;
+    font-size: 15px;
+    flex-grow: 1;
+    
+    
+    
+}
+.container{
+    display: flex;
+    margin-top: 20px;
+    
+}
+button {
+     padding: 12px 20px;
+     background-color:  rgb(25, 135, 84);
+     color:#fff;
+     border: none;
+     border-radius: 10px;
+     font-size: 15px;
+     cursor: pointer;
+}

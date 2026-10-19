@@ -1,0 +1,39 @@
+.user-css {
+    display: flex;
+    justify-content: end;
+    margin-top: 15px;
+    align-items: center;
+   
+}
+
+.robot-css {
+    display: flex;
+    align-items: center;
+    
+}
+
+
+.text {
+background-color: rgb(238, 238, 238);
+border-radius: 10px;
+padding: 10px 15px;
+max-width: 300px;
+padding-left: 20px;
+
+}
+
+
+.user-css .text {
+margin-right:10px;
+
+}
+.robot-css .text {
+margin-top: 15px;
+margin-left: 10px;
+
+}
+
+img {
+    height: 50px;
+    
+}

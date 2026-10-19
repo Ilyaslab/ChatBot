@@ -1,0 +1,6 @@
+.chatmessages-container {
+    flex-grow: 1;
+    overflow: scroll;
+    scrollbar-width: none;
+    scroll-behavior: smooth;
+}
